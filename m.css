@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.o {
+    width: 50px;
+}
+.z {
+    width: 30px;
+}
+.x {
+    width: 30px;
+}
+.vi {
+    color: white;
+}
+.div1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.div2 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    padding: 100px;
+    justify-content: center;
+    
+}
+.div3 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    text-align: center;
+    margin-left: 1300px;
+}
+.tt {
+    display: flex;
+    align-items: center;
+    margin-left: 650px;
+}
+.jk {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.div25 {
+    background-color: black;
+}
+
+.w {
+    width: 30px;
+}
+.e {
+    width: 25px;
+}
+.r {
+    width: 25px;
+}
+.t {
+    width: 25px;
+}
+.y {
+    width: 20px;
+}
+.divv {
+    gap: 20px;
+    background-color:beige;
+}
+.ma {
+    padding: 50px;
+}
+.dd {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+}
+.pi {
+    width: 50%;
+}
+.ff {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.ty {
+    width: 50%;
+}
+.ty {
+    width: 50%;
+}
+.mn {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+}
+.dy {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.gf {
+    width: 50%;
+}
+.vb {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.c {
+    width: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.div01 {
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    color: darkorange;
+    margin-top: 0;
+}
+.liv {
+    width: 40px;
+}
+.vil {
+    width: 35px;
+}
+.del {
+    width: 40px;
+}
+.cal {
+    width: 40px;
+}
+.jj {
+    border: 1px solid black;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    text-align: center;
+    padding:10px;
+    margin-top:30px;
+    position: absolute;
+}
+
+.qe {
+        color: azure;
+}
+.cc {
+    color: azure;
+}
+.zizi {
+    color: azure;
+}
+.rq {
+    color: darkorange
+}
