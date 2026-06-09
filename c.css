@@ -1,0 +1,258 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.o {
+    width: 50px;
+}
+.z {
+    width: 30px;
+}
+.x {
+    width: 30px;
+}
+.css {
+    width: 55px;
+}
+.vi {
+    color: white;
+}
+.div1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.div2 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    padding: 100px;
+    justify-content: center;
+    
+}
+.div3 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    text-align: center;
+    margin-left: 1300px;
+}
+.tt {
+    display: flex;
+    align-items: center;
+    margin-left: 650px;
+}
+.jk {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.div25 {
+    background-color: black;
+}
+
+.w {
+    width: 30px;
+}
+.y {
+    width: 20px;
+}
+.vip {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.divv {
+    background-color:rgb(174, 174, 174);
+}
+.ma {
+    padding: 50px;
+}
+.dd {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+}
+.pi {
+    width: 50%;
+}
+.ff {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.ty {
+    width: 50%;
+}
+.ty {
+    width: 50%;
+}
+.mn {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+}
+.dy {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.gf {
+    width: 50%;
+}
+.vb {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.c {
+    width: 50px;
+}
+
+.shop{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.div01 {
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    color: darkorange;
+    margin-top: 40%;
+}
+.liv {
+    width: 40px;
+}
+.vil {
+    width: 35px;
+}
+.del {
+    width: 40px;
+}
+.cal {
+    width: 40px;
+}
+.jj {
+    border: 1px solid black;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    text-align: center;
+    padding:10px;
+    margin-top:30px;
+    gap: 10px;
+}
+
+.qe {
+    color: azure;
+}
+.cc {
+    color: azure;
+}
+.zizi {
+    color: azure;
+}
+.rq {
+    color: darkorange
+}
+
+@media (max-width: 768px) {
+
+    .div1 {
+        flex-direction: column;
+        gap: 15px;
+        padding: 15px;
+    }
+
+    .vb {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .tt {
+        margin-left: 0;
+        justify-self: center;
+    }
+
+    .div2 {
+        text-align: right;
+        flex-wrap: wrap;
+        padding: 20px;
+        gap: 15px;
+    }
+
+    .dd,
+    .ff,
+    .mn,
+    .dy {
+        flex-direction: column;
+        text-align: center;
+        gap: 20px;
+    }
+
+    .pi,
+    .ty,
+    .gf {
+        width: 100%;
+    }
+
+    .vi {
+        font-size: 24px;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .div3 {
+        margin: 20px auto;
+        display: block;
+    }
+
+    .jj {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .div01 {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    .cc,
+    .zizi,
+    .qe {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .div2 {
+        flex-direction: column;
+
+    }
+    .vip {
+        text-align: right;
+    }
+    .shop {
+        align-items: center;
+        margin-bottom: 40px;
+        gap: 10px;
+    }
+}
+
